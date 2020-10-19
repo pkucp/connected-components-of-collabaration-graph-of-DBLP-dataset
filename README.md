@@ -1,1 +1,1 @@
-# pkucp-connected-components-of-collabaration-graph-of-DBLP-dataset
+# connected-components-of-collabaration-graph-of-DBLP-dataset
