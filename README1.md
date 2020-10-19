@@ -1,0 +1,1 @@
+First all authors are gathered in an index file call "authors.txt". Then the collabaration relationships are generated as links of the collaboration graph in "collaboration.txt". Finally, 
